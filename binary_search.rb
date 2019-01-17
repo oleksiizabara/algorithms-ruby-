@@ -22,10 +22,13 @@ class BinarySearch
         min_index = middle_index + 1
       end
     end
-    "#{@element} is not found"
+    -1
   end
 end
 
 test_list = [1, 4, 6, 8, 22, 56, 178] # sorted array only
 test_element = 22
-p BinarySearch.perform(test_list, test_element)
+
+index = BinarySearch.perform(test_list, test_element)
+
+p index.negative? ? "#{test_element} is not found" : "index of #{test_element} is #{index}"
