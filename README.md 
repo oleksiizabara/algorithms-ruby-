@@ -1,5 +1,4 @@
-implementation of most popular algorithms in ruby:
+implementation of most popular algorithms in ruby: 
 
-* [Binary search](https://github.com/oleksiizabara/algorithms-ruby-/blob/master/binary_search.rb)
-
-* [Dijkstra's shortest path algorithm](https://github.com/oleksiizabara/algorithms-ruby-/blob/master/graph_theory/shortest_paths_Dijkstra.rb)
+    * [Binary search](https://github.com/oleksiizabara/algorithms-ruby-/blob/master/binary_search.rb)
+    * [Dijkstra's shortest path algorithm](https://github.com/oleksiizabara/algorithms-ruby-/blob/master/graph_theory/shortest_paths_Dijkstra.rb)
