@@ -1,6 +1,20 @@
-implementation of most popular algorithms in ruby: 
+Implementation of most popular algorithms in ruby: 
 
-    * Binary search
+    * Binary Search
 
-    * Dijkstra's shortest path algorithm
+    * Selection Sort
+
+    * QuickSort
+
+
+Graph Theory:
+
+    * BreadthFirstSearch
+
+    * Dijkstra's Shortest Path
+
+
+Other: 
+
+    * Recursion
     
